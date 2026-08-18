@@ -1,0 +1,6 @@
+<GameProfile gameId="" packageFileVersion="455" packageLicenseeVersion="90" tfcExtension=".tfc" enableCustomTFCs="true" enableTFCNamePropertyCleanup="true" removeLODBias="false" removeLODGroup="false" hasHashCheck="false" TOCFilePath="KronosGame\Xbox360TOC.txt" enableObjectDataShift="false" enableExpandTables="true" updateUITextureSizeProperties="false" enableNewCompressedChunks="true" platform="XBOX360" enableUpdateStats="true" LZXrecompression="LZO" packageRecompression="Partial" deleteUCSFiles="false" deleteUncompressedSizeFiles="false" optimizePackageSpace="false" TFCMappingFileName="Destroy All Humans - Path of the Furon" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]" />
+  <PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+    <PackageFolder path="KronosGame\CookedXenon" customTFCStartIndex="0" />
+  </PackageFolders>
+</GameProfile>
