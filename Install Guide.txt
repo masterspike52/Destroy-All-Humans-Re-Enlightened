@@ -1,0 +1,100 @@
+How to Install Destroy All Humans: Re-Enlightened
+
+Extracting the ISO (the legal way)
+
+- Plug your thumb drive into the Xbox 360
+
+- Put your Path of the Furon disc into the disc tray
+
+- Install to thumb drive
+
+- Take thumb drive to computer
+
+- Extract files using Goopie Launcher
+
+Modifying the executable
+
+- Open the included X360GameHack tool
+
+- Click "Browse," navigate to where your POTF folder is
+
+- Click "Modify," and in a few seconds your executable is now mod friendly
+
+Installing the Mod
+
+- Open TFC Installer https://www.nexusmods.com/site/mods/588 (requires .net framework/runtime 6.0)
+
+- Click Mod Folder, navigate to the "MyMod" folder located inside the "Re-Enlightened" folder
+
+- Click Game Folder, navigate to where your POTF folder is, click on it
+
+- Click "Update DAH: Path of the Furon" to re-enlighten your DAH experience
+
+(Optional) Adding the Movies
+
+- Unzip the folder labeled "Movies"
+
+- Inside you will see two folder labeled "Menu Videos" and "Cutscenes"
+
+- The first one contains an assortment of new main menu videos created by Destroy All Humans
+Tribute and Sketso
+
+- Pick whichever ones you want (classic, outer space, or lava lamp) and copy them
+To your "Movies" folder inside the POTF folder
+
+- Open "Cutscenes" to find all the remastered cutscenes created by Destroy All Humans Tribute
+
+- One is labeled "Las Paradiso" and the other is labeled "Shen Long"
+
+- Copy the FMV's in both folders and paste them inside your "Movies" folder inside the POTF folder
+
+(Optional) Adding Audio Files
+
+- Unzip the folder labeled "Audio"
+
+- This contains all the higher quality audio files from the PS3 version that are compatible with
+The 360 version
+
+- Copy and paste those into your "Audio" folder inside your POTF folder
+
+(Optional) Bloom patches
+
+- There is a zipped folder labeled "Post Processing." This contains two patches for the
+In-game post processing: "Native" and "High-Res"
+
+- The native bloom values are there by default. "Native" is just a backup folder.
+
+- "High-Res" is for those playing POTF at a higher resolution on Xenia Canary. It ensures
+You have bloom without the artifacting that occurs because of the higher resolution.
+
+- Copy and paste the included package patch assets into the "CookedXenon" folder located inside
+Your "MyMod" folder. Click yes to overwrite.
+
+- Again, Native is just a back-up folder in case you change your mind and want to play POTF at its 
+Default resolution.
+
+Adding the new Splash Screen
+
+-Unzip the folder labeled "Splash." Inside is the new splash screen created by Destroy All Humans
+Tribute
+
+- Copy "splash.bmp" to where the vanilla "splash.bmp" is inside your POTF folder (Click on Splash,
+Then click on Xbox 360 inside that folder to find the vanilla "splash.bmp")
+
+Commonly Asked Questions
+
+- Is Re-Enlightened compatible with ReDAHM?
+Yes.
+
+- (Xenia Only ) Why is the game stuck on the loading screen after the company credits?
+You can fix this with the following input:
+
+- Press down twice
+- Press A
+- Press down once
+- Press A again
+
+If done correctly, it'll take you to the extras menu.
+
+- Are the outfits unlocked?
+On ReDAHM yes, but not on Xenia Canary.
