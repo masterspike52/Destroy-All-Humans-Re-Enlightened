@@ -10,6 +10,8 @@ Extracting the ISO (the legal way)
 
 - Take thumb drive to computer
 
+- Convert file into ISO using the God2ISO tool https://github.com/raburton/god2iso
+
 - Extract files using Goopie Launcher
 
 Modifying the executable
