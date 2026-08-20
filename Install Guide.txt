@@ -16,11 +16,9 @@ Extracting the ISO (the legal way)
 
 Modifying the executable
 
-- Open the included X360GameHack tool
+- Run ConvertDefaultXex.exe
 
-- Click "Browse," navigate to where your POTF folder is
-
-- Click "Modify," and in a few seconds your executable is now mod friendly
+- select your default.xex and in a few seconds your executable is now mod friendly
 
 Installing the Mod
 
