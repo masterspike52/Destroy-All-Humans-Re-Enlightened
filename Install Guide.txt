@@ -26,7 +26,7 @@ Installing the Mod
 
 - Click Mod Folder, navigate to the "MyMod" folder located inside the "Re-Enlightened" folder
 
-- Click Game Folder, navigate to where your POTF folder is, click on it
+- Click Game Folder, navigate to where your POTF assets are extracted, select it
 
 - Click "Update DAH: Path of the Furon" to re-enlighten your DAH experience
 
