@@ -1,0 +1,1985 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="kronosgame\cookedxenon\ar_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_camera.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_collectibles.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_crypto.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_cuesound.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_damagetypes.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_defaultspawners.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_dragonbosspawns.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_dragonbossprojectiles.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_dragonbossweapons.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_emperorbosspawn.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_emperorbossprojectiles.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_emperorbossweapons.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_explosions.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_furonalert.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_furonufo.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_hongkongspawners.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_loadgamehandlers.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_misc.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_musicstates.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_npcweapons.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_paradisospawners.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns_belleville.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns_furon.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns_hongkong.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns_paradiso.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns_sunnywood.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_pawns.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_physicalmaterials.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_squidbosspawn.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_squidbossprojectiles.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_squidbossweapons.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_stats.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_ufonexo.xxx" />
+    <Package path="kronosgame\cookedxenon\ar_venushumantrap.xxx" />
+    <Package path="kronosgame\cookedxenon\bv_dev.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_accessories.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_animtreetemplates.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_apepox.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_babysquid.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_beachdude.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_biker01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_bouncer.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_colorpals.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_cow.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_crypto.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_curtcalvin.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_defaultanimset.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_discoking.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_dragon.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_emperorboss.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_endometriosis.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_farre.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_femaleactress.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_femaletourist.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_francodyneguard.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_furon_construction_worker.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_furon_librarian.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_furontouristfemale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_furontouristmale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_helicobacter.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_henricrousteau.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkaveragefemale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkaveragemale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkbusinessmale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkcop01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkseniorfemale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkseniormale.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hksoldier.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hkswat.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hooker01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hooker02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_hooker03.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_jiveman.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_kungfumaster.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_leafletboy.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_lowlod.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Furon_TouristFemale_Alpha" suffix="1" />
+        <Object id="HK_BusinessMale_Alpha" suffix="1" />
+        <Object id="HK_BusinessMale_Diff" suffix="1" />
+        <Object id="TX_Furon_Construction_Worker_Alpha" suffix="1" />
+        <Object id="TX_Furon_TouristMale_Alpha" suffix="1" />
+        <Object id="TX_Furon_TouristMale_Diff" suffix="1" />
+        <Object id="TX_HK_AverageFemale_Diff" suffix="1" />
+        <Object id="TX_HK_AverageMale01_Diff" suffix="1" />
+        <Object id="TX_HK_SeniorFemale_Alpha" suffix="1" />
+        <Object id="TX_HK_SeniorFemale_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_lunarianthug.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_madameginseng.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_maleactor.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_maletourist.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_master.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_mikeymolanari.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_mime_cutscene.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_mobboss03.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_monk.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_murry.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_museumsecurityguard.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_nexowalker.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_nexowarrior.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_policechief.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pox.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_poxemitter.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_cop.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_richfemale.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_PR_RichFemale_Alpha" suffix="1" />
+        <Object id="TX_PR_RichFemale_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_pr_richmale.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_PR_RichMale_Alpha" suffix="1" />
+        <Object id="TX_PR_RichMale_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_pr_scientist_01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_scientist_02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_scientist_03.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_soldier.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_swat.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_pr_youngfemale.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_PR_YoungFemale_Alpha" suffix="1" />
+        <Object id="TX_PR_YoungFemale_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_pr_youngmale.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_PR_YoungMale_Alpha" suffix="1" />
+        <Object id="TX_PR_YoungMale_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_rollergirl.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_rolo.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_sailor.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_scummy.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_squidboss.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_stevelucalberg.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_thedon.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_triadsoldier.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_twinstarlets_dress.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_unionworker.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usaveragefemale01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_USAverageFemale01_Alpha" suffix="1" />
+        <Object id="TX_USAverageFemale01_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_usaveragefemale03.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usaveragefemale04.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_USAverageFemale04_Alpha" suffix="1" />
+        <Object id="TX_USAverageFemale04_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_usaveragemale02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_USAverageMale02_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_usaveragemale03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_USAverageMale03_Alph" suffix="1" />
+        <Object id="TX_USAverageMale03_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ch_usbusinessmale02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_uscop01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usfemale01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_uslowfemale02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_uslowmale01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_uslowmale03.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usmale01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usseniorfemale01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usseniorfemale02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usseniormale01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usseniormale02.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_ussoldier01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usswat01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_usvegasdealer.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_vegasmobster01.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_venushumantrap.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_veronicastone.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_vignettecamera.xxx" />
+    <Package path="kronosgame\cookedxenon\ch_waiter.xxx" />
+    <Package path="kronosgame\cookedxenon\characteraudio.xxx" />
+    <Package path="kronosgame\cookedxenon\chrisresources.xxx" />
+    <Package path="kronosgame\cookedxenon\core.xxx" />
+    <Package path="kronosgame\cookedxenon\cs_lp_060.xxx" />
+    <Package path="kronosgame\cookedxenon\cs_lp_110a.xxx" />
+    <Package path="kronosgame\cookedxenon\defaultuiskin.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ch_cryptoclothesbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptoattachment01.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptobikerbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptobikerhair.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptobikermustache.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptochefbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptochefhat.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptochefmustache.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptodiscobeard.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptodiscobody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptodiscohair.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptogangsterbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptogangstercigar.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptogangsterhat.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptokungfuhair.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptokungfushades.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptomats.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptomimebody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptomimehat.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptomimemask.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptopimpbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptopimpglasses.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_CryptoPimpGlasses" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\dlc_cryptopimphat.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptoseventiesbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptoseventiesglasses.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptosideburns.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptosixtiesbody.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptosixtiesglasses.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptosixtieshair.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_cryptoyellowjumpsuit.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment01_headlights.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment02_jets.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment03_exhaust.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment04_intake.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment05_spoiler.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufoattachment06_arkvoodle.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture01_flames.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture02_hippie.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture03_bird.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture04_stealth.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture05_militia.xxx" />
+    <Package path="kronosgame\cookedxenon\dlc_ufotexture06_racecar.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_genericdialogtrees.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_gorta.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_hongkong.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_multiplayer.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_paradiso.xxx" />
+    <Package path="kronosgame\cookedxenon\dt_paris.xxx" />
+    <Package path="kronosgame\cookedxenon\editormaterials.xxx" />
+    <Package path="kronosgame\cookedxenon\editormeshes.xxx" />
+    <Package path="kronosgame\cookedxenon\editorresources.xxx" />
+    <Package path="kronosgame\cookedxenon\en_bld_gasstation01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AirUnit_diff" suffix="2" />
+        <Object id="Textures\TX_AirUnit_norm" suffix="2" />
+        <Object id="Textures\TX_DuctCorner_generic_diff" suffix="2" />
+        <Object id="Textures\TX_DuctCorner_generic_norm" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\en_bld_movietheater.xxx" />
+    <Package path="kronosgame\cookedxenon\en_bld_tavern.xxx" />
+    <Package path="kronosgame\cookedxenon\en_buildingprops.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\EN_AirUnitTall_Norm" suffix="1" />
+        <Object id="Textures\No_Spec" suffix="1" />
+        <Object id="Textures\TX_AirUnit_diff" suffix="3" />
+        <Object id="Textures\TX_AirUnit_norm" suffix="3" />
+        <Object id="Textures\TX_AirUnitTall_diff" suffix="1" />
+        <Object id="Textures\TX_DuctCorner_generic_diff" suffix="3" />
+        <Object id="Textures\TX_DuctCorner_generic_norm" suffix="3" />
+        <Object id="Textures\TX_MetalShiny" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\en_buildings_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\en_buildingtiles_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\en_generic_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\en_groundprops.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_ArkvoodleStatue01_Diff" suffix="1" />
+        <Object id="Textures\TX_BillboardMetal01_Diff" suffix="1" />
+        <Object id="Textures\TX_BillboardMetal01_Norm" suffix="1" />
+        <Object id="Textures\TX_BlinkLight_Diff" suffix="1" />
+        <Object id="Textures\TX_BlinkLight_Emis" suffix="1" />
+        <Object id="Textures\TX_BlinkLight_Norm" suffix="1" />
+        <Object id="Textures\TX_Concrete_Norm" suffix="1" />
+        <Object id="Textures\TX_ConcreteRail_Norm" suffix="1" />
+        <Object id="Textures\TX_ConcreteWaterside_Diff" suffix="1" />
+        <Object id="Textures\TX_DrinkingFountain_Diff" suffix="1" />
+        <Object id="Textures\TX_DrinkingFountain_Norm" suffix="1" />
+        <Object id="Textures\TX_FrancodyneMetal_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalShiny" suffix="2" />
+        <Object id="Textures\TX_Noise_Norm" suffix="1" />
+        <Object id="Textures\TX_PalletWood_Norm" suffix="1" />
+        <Object id="Textures\TX_RadioTower01_Diff" suffix="1" />
+        <Object id="Textures\TX_RadioTower01_Norm" suffix="1" />
+        <Object id="Textures\TX_RadioTower01_Pole_Diff" suffix="1" />
+        <Object id="Textures\TX_RadioTower01_Pole_Norm" suffix="1" />
+        <Object id="Textures\TX_Tree_Birch_DIFF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\en_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="1" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="2" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="2" />
+        <Object id="Textures\TX_Concrete_Diff" suffix="1" />
+        <Object id="Textures\TX_Concrete_Norm" suffix="2" />
+        <Object id="Textures\TX_MediterraneanFan01_leaf_Norm" suffix="1" />
+        <Object id="Textures\TX_MediterraneanFan01_Trunk_Norm" suffix="1" />
+        <Object id="Textures\TX_MetalPaintedDumpster_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalPaintedDumpster_Norm" suffix="1" />
+        <Object id="Textures\TX_MetalPatterned_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalPatterned_Norm" suffix="1" />
+        <Object id="Textures\TX_MetalShiny_Diff" suffix="1" />
+        <Object id="Textures\TX_NoParking_Diff" suffix="1" />
+        <Object id="Textures\TX_PalletWood_Norm" suffix="1" />
+        <Object id="Textures\TX_PhoneBooth_diff" suffix="1" />
+        <Object id="Textures\TX_PhoneBooth_norm" suffix="1" />
+        <Object id="Textures\TX_search_gradient" suffix="1" />
+        <Object id="Textures\TX_Searchlight_Diff" suffix="1" />
+        <Object id="Textures\TX_Searchlight_Norm" suffix="1" />
+        <Object id="Textures\TX_SemiTruck01_Diff02" suffix="1" />
+        <Object id="Textures\TX_SemiTruck01_Norm02" suffix="1" />
+        <Object id="Textures\TX_VendingMachineSoda_DIFF" suffix="1" />
+        <Object id="Textures\TX_VendingMachineSoda_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\en_water.xxx" />
+    <Package path="kronosgame\cookedxenon\engine.xxx" />
+    <Package path="kronosgame\cookedxenon\enginefonts.xxx" />
+    <Package path="kronosgame\cookedxenon\enginematerials.xxx" />
+    <Package path="kronosgame\cookedxenon\engineresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\frontendmap.xxx" />
+    <Package path="kronosgame\cookedxenon\furonheadbossfinal.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_00gen.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_RoofPanelsGrime" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\fx_abductobeam.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_actionkill.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_actionscan.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_actionstar.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_alert.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ammo.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ammoufo.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_analprobe.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_bodysnatch.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_bouncyball.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_brain.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_buildings.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_cherryblossom.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_chopperlanding.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_cortexscan.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_crypto.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_deathray.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_disintegratorray.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_dislocator.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_dna.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_dustambient.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_explosiona.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_explosionb.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_explosionbuilding.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_explosiond.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_fire.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_firering.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_fireworks.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibs.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibscoins.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibsconcrete.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibsglass.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibsmetal.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibsmetallight.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibspalaceshield.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gibswood.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gortasmoke.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_gortasplatter.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_greenflow.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_greenoozesplat.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_headboss.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_hitspang.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_holopox.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_hypnoblast.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_hypnosis.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ice.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_iondetonator.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_jetpack.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_landingzone.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_markers.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_mentallock.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_militaryweapons.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_nexoarrival.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_nexowarrior.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_pickups.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_pk.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_plasmacannon.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_quantumdeconstructor.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_rainsheet.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_rockettrail.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_rope.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_seekermissiles.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_singularitybomb.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_smokestack.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_sniperrifletemp.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_sparks.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_squidboss.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_steam.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_sunflare.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_timestop.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_RoofPanelsGrime" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\fx_tornadotron.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_transmogrify.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_turretfire.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ufoblow.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ufocloak.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ufofuron.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_ufonexo.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_vehicles.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_venushumantrap.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_visilight.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_walker.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_waterfall.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_waterfountain.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_waterfountainsmallglow.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_watersplash_a.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_wind.xxx" />
+    <Package path="kronosgame\cookedxenon\fx_zapomatic.xxx" />
+    <Package path="kronosgame\cookedxenon\gorta_temp_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\gorta_temp.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condoa.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condob.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condoc.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condot.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condot1.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_condot2.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_dinermgorta.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryb1.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryb2.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryb3.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryl1.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryl2.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryt1.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryt2.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_factoryt3.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_funparka.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_funparkb.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_funparkc.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_funparkd.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_funparke.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_palacea.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_palaceb.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_bld_palacec.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_buildingtiles_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_dev.xxx" />
+    <Package path="kronosgame\cookedxenon\gr_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House010_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House015_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House015_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\gr_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Normal_64" suffix="1" />
+        <Object id="Textures\TX_ArizonaRosewood_Diff" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="3" />
+        <Object id="Textures\TX_Black_Diff" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLeaf01_Diff" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLeaf01_Norm" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLimb01a_Diff" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLimb01a_Norm" suffix="1" />
+        <Object id="Textures\TX_DesertWillowLeaf01_Diff" suffix="1" />
+        <Object id="Textures\TX_DesertWillowLeaf01_Norm" suffix="1" />
+        <Object id="Textures\TX_FenceChainLink_Norm" suffix="1" />
+        <Object id="Textures\TX_FenceChainLinkMetal_Diff" suffix="1" />
+        <Object id="Textures\TX_FoliageGrass01" suffix="1" />
+        <Object id="Textures\TX_Gorta_Dirt_Norm" suffix="1" />
+        <Object id="Textures\TX_Gorta_Dirt3_Diff" suffix="1" />
+        <Object id="Textures\TX_Gorta_DirtCloudMap2_Diff" suffix="1" />
+        <Object id="Textures\TX_Gorta_Grass1_Diff" suffix="1" />
+        <Object id="Textures\TX_Gorta_Grass1_Norm" suffix="1" />
+        <Object id="Textures\TX_Gorta_StreetStraight_Norm" suffix="1" />
+        <Object id="Textures\TX_Marble01_Diff" suffix="1" />
+        <Object id="Textures\TX_Marble01_Norm" suffix="1" />
+        <Object id="Textures\TX_MediterraneanFan01_leaf_Diff" suffix="1" />
+        <Object id="Textures\TX_MediterraneanFan01_leaf_Norm" suffix="2" />
+        <Object id="Textures\TX_MediterraneanFan01_Trunk_Diff" suffix="1" />
+        <Object id="Textures\TX_MediterraneanFan01_Trunk_Norm" suffix="2" />
+        <Object id="Textures\TX_MexicanFan01_Leaf_Diff" suffix="1" />
+        <Object id="Textures\TX_MexicanFan01_Leaf_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House010_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\gr_sky.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_aptb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_aptc.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_aptd.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_brothela.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_brothelmain.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_buildinga.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_buildingb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factorya.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryd.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryf.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryg.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryh.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_factoryj.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_police.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_restaurant.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_shacka.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_shackb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_shopa.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_shopb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skya.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyc.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skye.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyg.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyi.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyj.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyl.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skym.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyp.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_skyq.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_sluma.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumapta.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumaptb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumc.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumh.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_slumj.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_templea.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\hk_bld_templeb.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\hk_bld_warehouseb.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_warehousec.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_warehouseh.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_warehousej.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_warehousel.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_bld_warehousem.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_buildingprops.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_Black_Diff" suffix="2" />
+        <Object id="Textures\TX_HangingFish01_Diff" suffix="1" />
+        <Object id="Textures\TX_HangingFish01_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\hk_buildingtiles_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_dev.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_generic_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="2" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="6" />
+        <Object id="Textures\TX_ConcreteRail_Norm" suffix="2" />
+        <Object id="Textures\TX_ConcreteWaterside_Diff" suffix="2" />
+        <Object id="Textures\TX_Girder_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_AllStreet_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Grass_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_GroundMultiplier" suffix="1" />
+        <Object id="Textures\TX_HK_WallRetain_Norm" suffix="1" />
+        <Object id="Textures\TX_OrganicNoise_Norm" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\hk_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TK_HK_CityPavement_Diff" suffix="1" />
+        <Object id="Textures\TK_HK_CityPavement_Norm" suffix="1" />
+        <Object id="Textures\TowerFrame_Diff" suffix="1" />
+        <Object id="Textures\TowerFrame_Norm" suffix="1" />
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="3" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="3" />
+        <Object id="Textures\TX_AshCan_Diff" suffix="1" />
+        <Object id="Textures\TX_AshCan_Norm" suffix="1" />
+        <Object id="Textures\TX_Bark_G_DIFF" suffix="1" />
+        <Object id="Textures\TX_Bark_G_NORM" suffix="1" />
+        <Object id="Textures\TX_BrickRed01_Norm" suffix="1" />
+        <Object id="Textures\TX_BrickWare_Norm" suffix="1" />
+        <Object id="Textures\TX_BridgeBrick02_Diff" suffix="1" />
+        <Object id="Textures\TX_BridgeBrick02_Norm" suffix="1" />
+        <Object id="Textures\TX_BridgeRidge_Diff" suffix="1" />
+        <Object id="Textures\TX_BridgeRidge_Norm" suffix="1" />
+        <Object id="Textures\TX_Cable_Diff" suffix="1" />
+        <Object id="Textures\TX_Cable_Norm" suffix="1" />
+        <Object id="Textures\TX_FuelTank01_Diff" suffix="1" />
+        <Object id="Textures\TX_FuelTank01_Norm" suffix="1" />
+        <Object id="Textures\TX_Girder_Norm" suffix="2" />
+        <Object id="Textures\TX_Girder2_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Asphalt_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Asphalt_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_AsphaltCracked_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_AsphaltCracked_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_BrickPink_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_CityStraight_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_CityStraight_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Concrete1_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Concrete1_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Concrete2_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Concrete2_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_ConcreteEdge_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_ConcreteEdge_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_CracksDetail_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Dirt_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Dirt1_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Grass1_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_HotCoals_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_HotCoals_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_LampMetal01_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_LampMetal01_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_LampMetal02_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_LampMetal02_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_PierPost_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_RockWall_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_RockWall_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_TempleConcrete_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_TempleConcrete_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_WallBlock1_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_WallEdge_Norm" suffix="1" />
+        <Object id="Textures\TX_Metal_Silo_Diff" suffix="1" />
+        <Object id="Textures\TX_Metal_SiloCap_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalPatterned_Diff" suffix="2" />
+        <Object id="Textures\TX_MetalPatterned_Norm" suffix="2" />
+        <Object id="Textures\TX_MetalPiping_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalPiping_Norm" suffix="1" />
+        <Object id="Textures\TX_MetalPlain_Norm" suffix="1" />
+        <Object id="Textures\TX_Noise_Norm" suffix="2" />
+        <Object id="Textures\TX_Panel_Diff" suffix="1" />
+        <Object id="Textures\TX_Panel_Norm" suffix="1" />
+        <Object id="Textures\TX_ParkLantern01_Diff" suffix="1" />
+        <Object id="Textures\TX_ParkLantern01_Norm" suffix="1" />
+        <Object id="Textures\TX_ParkLantern02_Norm" suffix="1" />
+        <Object id="Textures\TX_PierPlanks_Diff" suffix="1" />
+        <Object id="Textures\TX_PierPlanks_Norm" suffix="1" />
+        <Object id="Textures\TX_pipe2_diff" suffix="1" />
+        <Object id="Textures\TX_pipe2_Norm" suffix="1" />
+        <Object id="Textures\TX_Plant_BroomShrub01Leaf01_Norm" suffix="1" />
+        <Object id="Textures\TX_RailsBridge_Diff" suffix="1" />
+        <Object id="Textures\TX_RailsBridge_Norm" suffix="1" />
+        <Object id="Textures\TX_SandwhichBoard01_Diff" suffix="1" />
+        <Object id="Textures\TX_SewerPipe_Diff" suffix="1" />
+        <Object id="Textures\TX_TempleWallStone_Diff" suffix="1" />
+        <Object id="Textures\TX_TempleWallStone_Norm" suffix="1" />
+        <Object id="Textures\TX_Tree_Birch_DIFF" suffix="2" />
+        <Object id="Textures\TX_Tree_Birch_NORM" suffix="1" />
+        <Object id="Textures\TX_Woodplanks2_Diff" suffix="1" />
+        <Object id="Textures\TX_Woodplanks2_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\hk_sky.xxx" />
+    <Package path="kronosgame\cookedxenon\hk_tempprops2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_HK_WaterGradient_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ipdrv.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_cinemas.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_firehoop.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_gallery_bottles.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_gallery.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_huminko.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_kicker.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_massive.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_mini_pinball.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_n3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p0p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_p3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_s1int_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_s1int_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_s1int_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_s1pal.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_sandbox_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_side_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_side_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta_story_6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_gorta.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_briefings.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_dragon.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_globalscripting.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_monastery.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n1p7.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_n3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p0p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_p2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sandboxmission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sandboxmission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sandboxmission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sandboxmission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sidemission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sidemission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sidemission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sidemission_4_rolo.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_sidemission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_7.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong_storymission_8.xxx" />
+    <Package path="kronosgame\cookedxenon\is_hongkong.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_briefing_04.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n1_p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n2_p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_n3_p7.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_nexowalkerboss.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_nightclub.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p0_p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p1_p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p2_p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_p3_p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_palms.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_sandbox1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_sandbox2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_sidemission_01.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_sidemission_03.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_sidemission_04.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_storymission_01.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_storymission_02.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_storymission_03.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_storymission_04.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles_storymission_05.xxx" />
+    <Package path="kronosgame\cookedxenon\is_los_angeles.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiiso_mission5matinee.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_casino_interior.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_lighting.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_n3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p0n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p0n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p0p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p0p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p0p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p4p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p4p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p4p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p5p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_p5p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_palms.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sandboxmission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sandboxmission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sandboxmission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sandboxmission_5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_scripting.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sidemission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sidemission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_sidemission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_spacedust_office.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_1b.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_2b.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_2c.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_7.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso_storymission_9.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paradiso.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_audio.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_briefings.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_chateau.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_globalscripting.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_n3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p0p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p1p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2n2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2n4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2n6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2p0.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2p2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2p4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p2p6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3n1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3n3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3n5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3p1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3p3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_p3p5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_sandboxmission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_sandboxmission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_sidemission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_sidemission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_squid.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_1.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_2.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_3.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_4.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_5.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_6_nexo.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris_storymission_6.xxx" />
+    <Package path="kronosgame\cookedxenon\is_paris.xxx" />
+    <Package path="kronosgame\cookedxenon\kronoseditorresources.xxx" />
+    <Package path="kronosgame\cookedxenon\kronosgame.xxx" />
+    <Package path="kronosgame\cookedxenon\kronosmpgame.xxx" />
+    <Package path="kronosgame\cookedxenon\kronosresources.xxx" />
+    <Package path="kronosgame\cookedxenon\kynapse_common.xxx" />
+    <Package path="kronosgame\cookedxenon\kynapse.xxx" />
+    <Package path="kronosgame\cookedxenon\kynapseeditorresources.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_askyofficea.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_baptc.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_beachh3.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_beachh3b.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_beachh3var1.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_beachh4w5.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_beachpark01.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_condoa_1.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_diner.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_doffice01.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_dofficec.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_dofficeq.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_dxapt1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\la_bld_eofficea.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_eofficedtri.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_eskya.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_estaira.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fancyhomea_l.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fancyhomea_m.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fancyhomea_r.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fofficea.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fofficec.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fofficek.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_francfactorya.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_francfactoryb.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_francfactoryc.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fskya.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_fsquarea.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_gshopa1.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_homeb.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_hospital.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_jroos.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_kbisa.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_kofficea.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_kofficec.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_la_apt.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_lachinesetheater.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_mlibrary.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_mofficex.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_mshopa1.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_mucla.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_nightclub.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_nstudioleft.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_pshopa.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_records.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_speaker.xxx" />
+    <Package path="kronosgame\cookedxenon\la_bld_studio.xxx" />
+    <Package path="kronosgame\cookedxenon\la_buildingtiles_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\la_dev.xxx" />
+    <Package path="kronosgame\cookedxenon\la_folige.xxx" />
+    <Package path="kronosgame\cookedxenon\la_generic_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\la_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="3" />
+        <Object id="Textures\TX_IronFence_DIFF" suffix="1" />
+        <Object id="Textures\TX_LA_Conc_Wall_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Conc_Wall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Topwall_Blue_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Topwall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_A_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_Norm" suffix="1" />
+        <Object id="Textures\TX_OrganicNoise_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\la_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\LA_Roosevelt2S_Diff" suffix="1" />
+        <Object id="Textures\LA_Roosevelt2S_Norm" suffix="1" />
+        <Object id="Textures\LA_Roosevelt2S01_Diff" suffix="1" />
+        <Object id="Textures\LA_Roosevelt2S01_Norm" suffix="1" />
+        <Object id="Textures\No_Norm" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="3" />
+        <Object id="Textures\TX_BarbedWire_Diff" suffix="1" />
+        <Object id="Textures\TX_BarbedWire_Norm" suffix="1" />
+        <Object id="Textures\TX_Cable_Diff" suffix="2" />
+        <Object id="Textures\TX_Cable_Norm" suffix="2" />
+        <Object id="Textures\TX_CaliforniaFanLeaf01_Norm" suffix="2" />
+        <Object id="Textures\TX_CargoContainerFranko_Diff" suffix="1" />
+        <Object id="Textures\TX_CargoContainerFranko_Norm" suffix="1" />
+        <Object id="Textures\TX_CargoTieDown_Diff" suffix="1" />
+        <Object id="Textures\TX_CargoTieDown_Norm" suffix="1" />
+        <Object id="Textures\TX_Chrome_Diff" suffix="1" />
+        <Object id="Textures\TX_Cloth01_Norm" suffix="1" />
+        <Object id="Textures\TX_ControlPanel_Diff" suffix="1" />
+        <Object id="Textures\TX_ControlPanel_Norm" suffix="1" />
+        <Object id="Textures\TX_DiscoTable01_Color_Norm" suffix="1" />
+        <Object id="Textures\TX_Dome_Diff" suffix="1" />
+        <Object id="Textures\TX_FenceChainLinkMetal_Diff" suffix="2" />
+        <Object id="Textures\TX_FoliageHKGrass01" suffix="1" />
+        <Object id="Textures\TX_FrancodyneWalls_Diff" suffix="1" />
+        <Object id="Textures\TX_Girder_Norm" suffix="3" />
+        <Object id="Textures\TX_HomesIronDetail01_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesIronDetail01_Norm" suffix="1" />
+        <Object id="Textures\TX_HomesMetal01_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesMetal02_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesTile03_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesTile04_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesTile04_Norm" suffix="1" />
+        <Object id="Textures\TX_HomesWall01_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesWall01_Norm" suffix="1" />
+        <Object id="Textures\TX_HomesWall02_Norm" suffix="1" />
+        <Object id="Textures\TX_HomesWallTop01_Diff" suffix="1" />
+        <Object id="Textures\TX_HomesWallTop01_Norm" suffix="1" />
+        <Object id="Textures\TX_IronFence_DIFF" suffix="2" />
+        <Object id="Textures\TX_IronFence_NORM" suffix="1" />
+        <Object id="Textures\TX_LA_Asphalt_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_BlendAlpha" suffix="1" />
+        <Object id="Textures\TX_LA_CircleTile_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_CircleTile_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Conc_Wall_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Concrete_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Concrete2_LA_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Diamondwall_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Dirt_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Grass2_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Seawall_01_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Seawall_01_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Sidewalk_Blue_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_StreetAsphalt_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Studio_movietile_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Studio_stuccolight_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Studioblack_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Studioblack_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Studioroof_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Trim_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Topwall_Blue_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Topwall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_A_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_WallBrick_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Wavewall_Diff" suffix="1" />
+        <Object id="Textures\TX_LampGlass_Diff" suffix="1" />
+        <Object id="Textures\TX_Metal_Silo_Diff" suffix="2" />
+        <Object id="Textures\TX_Metal_Silo_Norm" suffix="1" />
+        <Object id="Textures\TX_Metal_SiloCap_Diff" suffix="2" />
+        <Object id="Textures\TX_MetalPlain_Norm" suffix="2" />
+        <Object id="Textures\TX_OrganicNoise_Norm" suffix="1" />
+        <Object id="Textures\TX_Panel_Diff" suffix="2" />
+        <Object id="Textures\TX_Panel_Norm" suffix="2" />
+        <Object id="Textures\TX_pipe2_diff" suffix="2" />
+        <Object id="Textures\TX_pipe2_Norm" suffix="2" />
+        <Object id="Textures\TX_Powerpole_Diff" suffix="1" />
+        <Object id="Textures\TX_Rock01_Diff" suffix="1" />
+        <Object id="Textures\TX_Rock01_Norm" suffix="1" />
+        <Object id="Textures\TX_RoosWall_Diff" suffix="1" />
+        <Object id="Textures\TX_RoosWall_Norm" suffix="1" />
+        <Object id="Textures\TX_SoccerBall_Diff" suffix="1" />
+        <Object id="Textures\TX_TropicalPalm01_Leaf_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\la_sky.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_baret_prop.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Endometriosis_Hat_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mat_baret.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_bucket.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_fx_cigarsmoke.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_fx_godray.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_fx_jetpack.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_fx_smokelinger.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_lp_100_rifle.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_lp_100_slider.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_lp_100_trailerdoor.xxx" />
+    <Package path="kronosgame\cookedxenon\mat_ufo.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_abducto_props.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_bom_arch_terrains.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="5" />
+        <Object id="Textures\TX_LA_Concrete_LA_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Seawall_01_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Seawall_01_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_WallBrick_Diff" suffix="1" />
+        <Object id="Textures\TX_Paris_Dirt_Diff" suffix="1" />
+        <Object id="Textures\TX_Paris_Dirt_Norm" suffix="1" />
+        <Object id="Textures\TX_ParisFoundation_Diff" suffix="1" />
+        <Object id="Textures\TX_ParisPavementPlain_Diff" suffix="1" />
+        <Object id="Textures\TX_ParisPavementPlain_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_bom_archdudefeat.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_bom_primoexit.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_bom_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_PalletWood_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_bs_furonarena.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_bs_sunnywoodcircle.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_dev.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_g_shenlongriver.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_g_twomileisland_terrains.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TK_HK_CityPavement_Diff" suffix="2" />
+        <Object id="Textures\TK_HK_CityPavement_Norm" suffix="2" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="5" />
+        <Object id="Textures\TX_ConcreteRail_Norm" suffix="3" />
+        <Object id="Textures\TX_ConcreteWaterside_Diff" suffix="3" />
+        <Object id="Textures\TX_Ground_Grass_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Walkway1_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Walkway1_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_Walkway2_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_Walkway2_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_WallEdge_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_WallEdge_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_CircleTile_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_CircleTile_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Concrete_LA_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Diamondwall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Dirt_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Dirt_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Grass1_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_sand_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_sand_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Sidewalk_Blue_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Sidewalk_Blue_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_StreetCorner_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_StreetCorner_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_StreetStraight_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_StreetStraight_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_StreetStraightCrosswalkLeft_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_StreetStraightCrosswalkLeft_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Tile_Clean_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Tile_Clean_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_A_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_g_twomileisland.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_generic_props.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_gladiator_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_PalletWood_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_ionsoccer_1.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_prim_terrains.xxx" />
+    <Package path="kronosgame\cookedxenon\mp_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="7" />
+        <Object id="Textures\TX_Ground_Grass_Diff" suffix="2" />
+        <Object id="Textures\TX_IonSoc_greymetalp3_Diff" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalp3_Emis" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalp3_Norm" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt1_Diff" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt1_Norm" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt1b_Emis" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt3_Diff" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt3_Emis" suffix="1" />
+        <Object id="Textures\TX_IonSoc_greymetalt3_Norm" suffix="1" />
+        <Object id="Textures\TX_IonSoc_lightp1_Diff" suffix="1" />
+        <Object id="Textures\TX_IonSoc_lightp1_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_CircleTile_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_CircleTile_Norm" suffix="3" />
+        <Object id="Textures\TX_LA_Concrete_LA_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_Concrete_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Diamondwall_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Diamondwall_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Norm" suffix="3" />
+        <Object id="Textures\TX_LA_Grass1_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Roof_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Roof_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Seawall_01_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_Seawall_01_Norm" suffix="3" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Trim_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Trim_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Topwall_Blue_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Topwall_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Topwall_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_WallBrick_A_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_WallBrick_A_Norm" suffix="3" />
+        <Object id="Textures\TX_LA_WallBrick_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_WallBrick_Norm" suffix="3" />
+        <Object id="Textures\TX_LA_Wavewall_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Wavewall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Wood_pilar_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Wood_pilar_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_shenlong_terrains.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="4" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="4" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\TX_BrickWare_Diff" suffix="1" />
+        <Object id="Textures\TX_BrickWare_Norm" suffix="2" />
+        <Object id="Textures\TX_GoldMetal_Diff" suffix="1" />
+        <Object id="Textures\TX_GoldMetal_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_AsphaltCracked_Diff" suffix="2" />
+        <Object id="Textures\TX_HK_AsphaltCracked_Norm" suffix="2" />
+        <Object id="Textures\TX_HK_BrickPink_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_BrickPink_Norm" suffix="2" />
+        <Object id="Textures\TX_HK_CityCorner_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_CityCorner_Norm" suffix="1" />
+        <Object id="Textures\TX_HK_CityCrosswalkLeft_Diff" suffix="1" />
+        <Object id="Textures\TX_HK_CityStraight_Diff" suffix="2" />
+        <Object id="Textures\TX_HK_Concrete1_Diff" suffix="2" />
+        <Object id="Textures\TX_HK_Concrete1_Norm" suffix="2" />
+        <Object id="Textures\TX_HK_Dirt1_Diff" suffix="2" />
+        <Object id="Textures\TX_HK_Grass1_Diff" suffix="2" />
+        <Object id="Textures\TX_HK_GroundMultiplier" suffix="2" />
+        <Object id="Textures\TX_HK_WallRetain_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_A_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_WallBrick_A_Norm" suffix="4" />
+        <Object id="Textures\TX_MetalPatterned_Norm" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_sunnywood_terrains.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="5" />
+        <Object id="Textures\TX_Concrete_Diff" suffix="2" />
+        <Object id="Textures\TX_Ground_Grass_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_CircleTile_Diff" suffix="4" />
+        <Object id="Textures\TX_LA_CircleTile_Norm" suffix="4" />
+        <Object id="Textures\TX_LA_Concrete_LA_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_Diamondwall_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Dirt_Diff" suffix="3" />
+        <Object id="Textures\TX_LA_Dirt_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Diff" suffix="4" />
+        <Object id="Textures\TX_LA_Floor_Main_01_Norm" suffix="4" />
+        <Object id="Textures\TX_LA_Grass1_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_Grass2_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_sand_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_sand_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_StreetCorner_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_StreetCorner_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_StreetStraight_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_StreetStraight_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_StreetStraightCrosswalkLeft_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_StreetStraightCrosswalkLeft_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Tile_Clean_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Tile_Clean_Norm" suffix="2" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Diff" suffix="2" />
+        <Object id="Textures\TX_LA_Tile_Cracked_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_A_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_WallBrick_Diff" suffix="1" />
+        <Object id="Textures\TX_StreetAsphalt_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_ui_hud.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\snatcher_scoring" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mp_ui_scenes.xxx" />
+    <Package path="kronosgame\cookedxenon\mt_default.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\ReflectionCubeMap\CubemapFace0" suffix="1" />
+        <Object id="Textures\ReflectionCubeMap\CubemapFace1" suffix="1" />
+        <Object id="Textures\ReflectionCubeMap\CubemapFace2" suffix="1" />
+        <Object id="Textures\ReflectionCubeMap\CubemapFace3" suffix="1" />
+        <Object id="Textures\ReflectionCubeMap\CubemapFace4" suffix="1" />
+        <Object id="Textures\ReflectionCubeMap\CubemapFace5" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\mt_kalloc.xxx" />
+    <Package path="kronosgame\cookedxenon\mt_physics.xxx" />
+    <Package path="kronosgame\cookedxenon\nse_hk_boss_dragon_vfx.xxx" />
+    <Package path="kronosgame\cookedxenon\nse_hk_boss_dragon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AlmondTreeLeaf01_Diff" suffix="1" />
+        <Object id="Textures\TX_AlmondTreeLeaf01_Norm" suffix="1" />
+        <Object id="Textures\TX_AlmondTreeTrunk01_Diff" suffix="1" />
+        <Object id="Textures\TX_AlmondTreeTrunk01_Norm" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="8" />
+        <Object id="Textures\TX_Bark_G_DIFF" suffix="2" />
+        <Object id="Textures\TX_Bark_G_NORM" suffix="2" />
+        <Object id="Textures\TX_Cliff_Diff" suffix="1" />
+        <Object id="Textures\TX_Cliff_Norm" suffix="1" />
+        <Object id="Textures\TX_CliffsBlend3_Alpha" suffix="1" />
+        <Object id="Textures\TX_HK_Grass_Norm" suffix="2" />
+        <Object id="Textures\TX_HK_Grass1_Diff" suffix="3" />
+        <Object id="Textures\TX_Moss_Diff" suffix="1" />
+        <Object id="Textures\TX_Moss_Norm" suffix="1" />
+        <Object id="Textures\TX_MossHanging_Diff" suffix="1" />
+        <Object id="Textures\TX_MossHanging_Norm" suffix="1" />
+        <Object id="Textures\TX_OrganicNoise_Norm" suffix="3" />
+        <Object id="Textures\TX_Tree_Birch_DIFF" suffix="3" />
+        <Object id="Textures\TX_Tree_Birch_NORM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\nse_squid_particle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_EclipseA01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\onlinesubsystemlive.xxx" />
+    <Package path="kronosgame\cookedxenon\onlinesubsystempc.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt01.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt01a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt01endbeveled.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt01s.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt02.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt02a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt03.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt03a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt04.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_apt04a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_archood_a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_archood_b.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_axmbuilding.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_chateau.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_francfactorya.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_francfactoryb.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_genbld01.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_genbld02.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_louvrelwing.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_louvremain.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_louvrerwing.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_office01.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_office02.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_office04.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_office05.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice101.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice102.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice110.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice113a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice115a.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice123.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice124.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice127.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice129h.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_bld_skyoffice129l.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_buildingprops.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\No_Norm" suffix="1" />
+        <Object id="Textures\TX_MetalShiny_Diff" suffix="2" />
+        <Object id="Textures\TX_pipe2_diff" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\pa_buildingtiles_tx.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_generic_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\pa_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\TX_Paris_Grass1_Diff" suffix="1" />
+        <Object id="Textures\TX_Paris_Grass1_Norm" suffix="1" />
+        <Object id="Textures\TX_Paris_Street_Diff" suffix="1" />
+        <Object id="Textures\TX_Paris_Street_Norm" suffix="1" />
+        <Object id="Textures\TX_Paris_StreetCorner_Diff" suffix="1" />
+        <Object id="Textures\TX_Paris_StreetCorner_Norm" suffix="1" />
+        <Object id="Textures\TX_Paris_StreetCrosswalkLeft_Diff" suffix="1" />
+        <Object id="Textures\TX_ParisPavement" suffix="1" />
+        <Object id="Textures\TX_ParisPavement_Norm" suffix="1" />
+        <Object id="Textures\TX_StreetAsphalt_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\pa_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="4" />
+        <Object id="Textures\TX_Barge_Base01_DS_Diff" suffix="1" />
+        <Object id="Textures\TX_Barge_Base01_Norm" suffix="1" />
+        <Object id="Textures\TX_beam_diff" suffix="1" />
+        <Object id="Textures\TX_beam_norm" suffix="1" />
+        <Object id="Textures\TX_Cloth01_Diff" suffix="1" />
+        <Object id="Textures\TX_Cloth01_Norm" suffix="2" />
+        <Object id="Textures\TX_CloudGrad01_Diff" suffix="1" />
+        <Object id="Textures\TX_CLR" suffix="1" />
+        <Object id="Textures\TX_Cypress01Leaf_Diff" suffix="1" />
+        <Object id="Textures\Tx_Cypress01Leaf_Norm" suffix="1" />
+        <Object id="Textures\Tx_Cypress01Trunk_Diff" suffix="1" />
+        <Object id="Textures\Tx_Cypress01Trunk_Norm" suffix="1" />
+        <Object id="Textures\TX_Detail01_Diff" suffix="1" />
+        <Object id="Textures\TX_Detail01_Norm" suffix="1" />
+        <Object id="Textures\TX_Detail02_Diff" suffix="1" />
+        <Object id="Textures\TX_Detail02_Norm" suffix="1" />
+        <Object id="Textures\TX_IronFence_DIFF" suffix="3" />
+        <Object id="Textures\TX_LA_powertower_diff" suffix="1" />
+        <Object id="Textures\TX_LA_powertower_norm" suffix="1" />
+        <Object id="Textures\TX_Marble01_Diff" suffix="2" />
+        <Object id="Textures\TX_Marble02_Diff" suffix="1" />
+        <Object id="Textures\TX_PalletWood_Diff" suffix="2" />
+        <Object id="Textures\TX_PalletWood_Norm" suffix="2" />
+        <Object id="Textures\TX_ParisBridgeDirt_Diff" suffix="1" />
+        <Object id="Textures\TX_ParisFoundation_Norm" suffix="1" />
+        <Object id="Textures\TX_ParisPavement" suffix="2" />
+        <Object id="Textures\TX_ParisPavement_Norm" suffix="2" />
+        <Object id="Textures\TX_pipe2_diff" suffix="4" />
+        <Object id="Textures\TX_pipe2_Norm" suffix="3" />
+        <Object id="Textures\TX_StoneLight_Diff" suffix="1" />
+        <Object id="Textures\TX_StoneLight_Norm" suffix="1" />
+        <Object id="Textures\TX_StreetLamp01_Pole_Norm" suffix="1" />
+        <Object id="Textures\TX_TreeShrub02Leaf_Diff" suffix="1" />
+        <Object id="Textures\TX_TreeShrub02Leaf_Norm" suffix="1" />
+        <Object id="Textures\TX_TreeShrub02Trunk_Diff" suffix="1" />
+        <Object id="Textures\TX_TreeShrub02Trunk_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\pa_sky.xxx" />
+    <Package path="kronosgame\cookedxenon\postprocess.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_Gradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\startup_int.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_contextual.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_deathfade.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_dialoghud.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_cheat.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_ingame.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_loading.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_mp_loading.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FE_DAHScreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ui_frontend_multiplayer.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_new.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend_persistent.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_frontend.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="White" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ui_furocom.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_gamehud.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_hud.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_invasionsitenames.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_landingzonetemp.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_livefeed.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_maps.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_medchamber.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_minimap.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_navicom.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_navmap.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Temp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ui_new_hud.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\HealthGradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ui_poxmart.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_tutorialhud.xxx" />
+    <Package path="kronosgame\cookedxenon\ui_weaponhud.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\HUD_SWJ_WGradient6" suffix="1" />
+        <Object id="Textures\LifeBar" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\ui_weaponwheelhud.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\HUD_WW_Grd_bg" suffix="1" />
+        <Object id="Textures\HUD_WW_UFO_bg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_bld_casinoasands.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_casinohiltontower.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_bld_casinoround.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_casinosquare.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_corecrapscasino.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_dinerm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DinerM_LOD_Texture0" suffix="1" />
+        <Object id="Textures\Mask_DinerM_LOD_Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_bld_genbuildinga.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_genbuildingb.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_genbuildingc.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_genbuildingd.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_genbuildinge.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_mgm.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_militarybarracks.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_militaryhangar.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_policestationa.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_policestationb.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_romanpalace.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\EN_AirUnitTall_Norm" suffix="1" />
+        <Object id="Textures\TX_AirUnit_diff" suffix="1" />
+        <Object id="Textures\TX_AirUnit_norm" suffix="1" />
+        <Object id="Textures\TX_AirUnitTall_diff" suffix="1" />
+        <Object id="Textures\TX_DuctCorner_generic_diff" suffix="1" />
+        <Object id="Textures\TX_DuctCorner_generic_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_bld_salco.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_spacedust.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\EN_AirUnitTall_Norm" suffix="1" />
+        <Object id="Textures\TX_AirUnit_diff" suffix="1" />
+        <Object id="Textures\TX_AirUnit_norm" suffix="1" />
+        <Object id="Textures\TX_AirUnitTall_diff" suffix="1" />
+        <Object id="Textures\TX_DuctCorner_generic_diff" suffix="1" />
+        <Object id="Textures\TX_DuctCorner_generic_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_bld_vegchapelbasea.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_vegchapelbaseb.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_veghousea.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_veghouseb.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_bld_veghousec.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_buildingprops.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="5" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="1" />
+        <Object id="Textures\TX_Dirt_Diff" suffix="1" />
+        <Object id="Textures\TX_Door_Metal_Diff" suffix="1" />
+        <Object id="Textures\TX_Door_Metal_Norm" suffix="1" />
+        <Object id="Textures\TX_Floor_SpaceDust_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalDark_Diff" suffix="1" />
+        <Object id="Textures\TX_Norm" suffix="1" />
+        <Object id="Textures\TX_Tree_Birch_NORM" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_buildingtiles_tx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_PoliceBrickBot01_Diff" suffix="1" />
+        <Object id="TX_PoliceBrickBot01_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickBot03_Diff" suffix="1" />
+        <Object id="TX_PoliceBrickBot03_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickBot05_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickBot07_Diff" suffix="1" />
+        <Object id="TX_PoliceBrickBot07_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickBot09_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickRed03_Diff" suffix="1" />
+        <Object id="TX_PoliceBrickRed03_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickRed04_Diff" suffix="1" />
+        <Object id="TX_PoliceBrickRed04_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickTop02_Norm" suffix="1" />
+        <Object id="TX_PoliceBrickTop03_Norm" suffix="1" />
+        <Object id="TX_VegD_dinerentrance_01_Diff" suffix="1" />
+        <Object id="TX_VegD_dinerwall_01_Diff" suffix="1" />
+        <Object id="TX_VegD_dinerwall_01_Norm" suffix="1" />
+        <Object id="TX_VegD_trimtop_01_Emis" suffix="1" />
+        <Object id="TX_VegE_BldD_Base01_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Base02_Diff" suffix="1" />
+        <Object id="TX_VegE_BldD_Base02_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Base03_Diff" suffix="1" />
+        <Object id="TX_VegE_BldD_Base03_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Base04_Diff" suffix="1" />
+        <Object id="TX_VegE_BldD_Base04_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Facade01_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Facade02_Diff" suffix="1" />
+        <Object id="TX_VegE_BldD_Facade02_Norm" suffix="1" />
+        <Object id="TX_VegE_BldD_Facade03_Diff" suffix="1" />
+        <Object id="TX_VegE_BldD_Facade03_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_chromebar.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_Casino_SilverTrim02_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_crypto_office.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\TX_Door01_Diff" suffix="1" />
+        <Object id="Textures\TX_Door01_Norm" suffix="1" />
+        <Object id="Textures\TX_Door02_Diff" suffix="1" />
+        <Object id="Textures\TX_Door02_Norm" suffix="1" />
+        <Object id="Textures\TX_Lamp01_Diff" suffix="1" />
+        <Object id="Textures\TX_TV01_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_dev.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TX_ConcreteHorizontal_Veg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_Concrete_Diff" suffix="3" />
+        <Object id="Textures\TX_ConcreteStairs_Diff" suffix="1" />
+        <Object id="Textures\TX_ConcreteStairs_Norm" suffix="1" />
+        <Object id="Textures\TX_Dirt_Diff" suffix="2" />
+        <Object id="Textures\TX_Dirt_Norm" suffix="1" />
+        <Object id="Textures\TX_Dirt_Road_Diff" suffix="1" />
+        <Object id="Textures\TX_Floor_SpaceDust_Diff" suffix="1" />
+        <Object id="Textures\TX_StreetAsphalt_Norm" suffix="2" />
+        <Object id="Textures\TX_StreetStraightCrosswalkLeft_vegas_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_la_nightclubcore.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim05_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_Marble01_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_SilverTrim02_Diff" suffix="2" />
+        <Object id="Textures\TX_DrinkingFountain_Diff" suffix="2" />
+        <Object id="Textures\TX_DrinkingFountain_Norm" suffix="2" />
+        <Object id="Textures\TX_RoofGrit_Diff" suffix="1" />
+        <Object id="Textures\TX_RoofGrit_Norm" suffix="1" />
+        <Object id="Textures\TX_VendingMachineSoda_DIFF" suffix="2" />
+        <Object id="Textures\TX_VendingMachineSoda_NORM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\metal_sheet_normal" suffix="1" />
+        <Object id="Textures\Normal_64" suffix="2" />
+        <Object id="Textures\TX_AlumMetal_Diff" suffix="6" />
+        <Object id="Textures\TX_AlumMetal_Norm" suffix="5" />
+        <Object id="Textures\TX_Beanbag01_Diff" suffix="1" />
+        <Object id="Textures\TX_Beanbag01_Norm" suffix="1" />
+        <Object id="Textures\TX_Black_Diff" suffix="3" />
+        <Object id="Textures\TX_blendDirty" suffix="1" />
+        <Object id="Textures\TX_BulbA_Emis" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLeaf01_Diff" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLeaf01_Norm" suffix="3" />
+        <Object id="Textures\TX_CaliforniaFanLimb01_Diff" suffix="1" />
+        <Object id="Textures\TX_CaliforniaFanLimb01_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim02_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_wood05_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_wood07_Diff" suffix="1" />
+        <Object id="Textures\TX_Cement_Plain_Norm" suffix="1" />
+        <Object id="Textures\TX_Concrete_Diff" suffix="4" />
+        <Object id="Textures\TX_Concrete_Military_Diff" suffix="1" />
+        <Object id="Textures\TX_Concrete_Military_Norm" suffix="1" />
+        <Object id="Textures\TX_Concrete_Norm" suffix="3" />
+        <Object id="Textures\TX_ConcreteStairs_Diff" suffix="2" />
+        <Object id="Textures\TX_ConcreteStairs_Norm" suffix="2" />
+        <Object id="Textures\TX_CorragatedMetal_Norm" suffix="1" />
+        <Object id="Textures\TX_couch_Fabric02_Diff" suffix="1" />
+        <Object id="Textures\TX_couch_Fabric02_Norm" suffix="1" />
+        <Object id="Textures\TX_couch_Fabric04_Norm" suffix="1" />
+        <Object id="Textures\TX_couch_Fabric05_Diff" suffix="1" />
+        <Object id="Textures\TX_Dirt_Diff" suffix="3" />
+        <Object id="Textures\TX_Dirt_Norm" suffix="2" />
+        <Object id="Textures\TX_Door01_Diff" suffix="2" />
+        <Object id="Textures\TX_Door01_Norm" suffix="2" />
+        <Object id="Textures\TX_Generator_Diff" suffix="1" />
+        <Object id="Textures\TX_GortaProp_greenlava1_Emis" suffix="1" />
+        <Object id="Textures\TX_GortaProp_greenlava1b_Emis" suffix="1" />
+        <Object id="Textures\TX_GortaProp_RockPlatform_Diff" suffix="1" />
+        <Object id="Textures\TX_GortaProp_RockPlatform_Norm" suffix="1" />
+        <Object id="Textures\TX_Grass1_Diff" suffix="1" />
+        <Object id="Textures\TX_Grass1_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubDarkmetal01_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubDarkmetal01_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubDoor01_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubDoor01_Norm" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubScaffolding01_Diff" suffix="1" />
+        <Object id="Textures\TX_LA_NightClubScaffolding01_Norm" suffix="1" />
+        <Object id="Textures\TX_Lamp01_Diff" suffix="2" />
+        <Object id="Textures\TX_lamp01_Norm" suffix="1" />
+        <Object id="Textures\TX_lamp02_Diff" suffix="1" />
+        <Object id="Textures\TX_lamp02_Norm" suffix="1" />
+        <Object id="Textures\TX_LampMetal_Diff" suffix="1" />
+        <Object id="Textures\TX_LampMetal01_Diff" suffix="1" />
+        <Object id="Textures\TX_Marble04_Diff" suffix="1" />
+        <Object id="Textures\TX_Metal01_Diff" suffix="1" />
+        <Object id="Textures\TX_MetalDark_Diff" suffix="2" />
+        <Object id="Textures\TX_MetalPatterned_Diff" suffix="3" />
+        <Object id="Textures\TX_MetalPatterned_Norm" suffix="4" />
+        <Object id="Textures\TX_MetalShiny_Diff" suffix="3" />
+        <Object id="Textures\TX_Mountain_Rock_Diff" suffix="1" />
+        <Object id="Textures\TX_Mountain_Rock_Norm" suffix="1" />
+        <Object id="Textures\TX_Norm" suffix="1" />
+        <Object id="Textures\TX_PalletWood_Diff" suffix="3" />
+        <Object id="Textures\TX_ParkingCover_Base_Diff" suffix="1" />
+        <Object id="Textures\TX_ParkingCover_Base_Norm" suffix="1" />
+        <Object id="Textures\TX_Piano_Keys_Diff" suffix="1" />
+        <Object id="Textures\TX_Plastic_NORM" suffix="1" />
+        <Object id="Textures\TX_Searchlight_Diff" suffix="2" />
+        <Object id="Textures\TX_SearchLight_Emis" suffix="1" />
+        <Object id="Textures\TX_Searchlight_Norm" suffix="2" />
+        <Object id="Textures\TX_SemiTruck01_Diff02" suffix="2" />
+        <Object id="Textures\TX_SemiTruck01_Norm02" suffix="2" />
+        <Object id="Textures\TX_shag_Rug02_Diff" suffix="1" />
+        <Object id="Textures\TX_StreetAsphalt_Diff" suffix="2" />
+        <Object id="Textures\TX_StreetStraight_vegas_Diff" suffix="1" />
+        <Object id="Textures\TX_StreetStraight_Vegas_Norm" suffix="1" />
+        <Object id="Textures\TX_Tile_Clean_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasChapelDeco01_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House001_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House001_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House002_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House002_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House004_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House004_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House007_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House007_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House008_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House008_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House009_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House009_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House010_Diff" suffix="2" />
+        <Object id="Textures\TX_VegasGen_House013_Diff" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House013_Norm" suffix="1" />
+        <Object id="Textures\TX_VegasGen_House017_Diff" suffix="1" />
+        <Object id="Textures\TX_velvet01_Norm" suffix="1" />
+        <Object id="Textures\TX_velvet04_Diff" suffix="1" />
+        <Object id="Textures\TX_velvet06_Diff" suffix="1" />
+        <Object id="Textures\TX_wallpaper_bottom01_Diff" suffix="1" />
+        <Object id="Textures\TX_Window_Diff" suffix="1" />
+        <Object id="Textures\TX_Window_Norm" suffix="1" />
+        <Object id="Textures\TX_WoodOld_Diff" suffix="1" />
+        <Object id="Textures\TX_WoodOld_Norm" suffix="1" />
+        <Object id="Textures\TX_WoodPaneling01_Diff" suffix="1" />
+        <Object id="Textures\TX_WoodPaneling01_Norm" suffix="1" />
+        <Object id="Textures\TX_WoodTrim01_Diff" suffix="1" />
+        <Object id="Textures\TX_WoodTrim01_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_river.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_signs.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_MarbleRoman" suffix="1" />
+        <Object id="Textures\TX_Marquee_Plastic" suffix="1" />
+        <Object id="Textures\TX_Roman05_Diff" suffix="1" />
+        <Object id="Textures\TX_Roman05_Norm" suffix="1" />
+        <Object id="Textures\TX_SignSpaceDust_Diff" suffix="1" />
+        <Object id="Textures\TX_SignSpaceDust_Emis" suffix="1" />
+        <Object id="Textures\TX_SignSpaceDust_Stars_Diff" suffix="1" />
+        <Object id="Textures\TX_SignSultan_NEON_ALPHA" suffix="1" />
+        <Object id="Textures\TX_SignSultan_Neon_EMIS" suffix="1" />
+        <Object id="Textures\TX_SignSultan_Neon_NORMS" suffix="1" />
+        <Object id="Textures\TX_SignSultan_PlasticBack_DIFF" suffix="1" />
+        <Object id="Textures\TX_Sultan_Sign_Text" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vg_sky.xxx" />
+    <Package path="kronosgame\cookedxenon\vg_vegascasino_interior.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Meshes\Textures\TX_BalconyandDoor01_Spec" suffix="1" />
+        <Object id="Textures\Full_Spec" suffix="1" />
+        <Object id="Textures\No_Spec" suffix="1" />
+        <Object id="Textures\TX_BalconyandDoor01_Spec" suffix="2" />
+        <Object id="Textures\TX_Casino_blinkinglights01_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_blinkinglights01_Mask" suffix="1" />
+        <Object id="Textures\TX_Casino_blinkinglights01_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim01_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim01_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim02_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim02_Norm" suffix="2" />
+        <Object id="Textures\TX_Casino_Goldtrim03_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim04_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_Goldtrim06_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_LampShade01_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_LampShade02_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_NoNorm_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_Suede01_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_Suede01_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_wallpaper02_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_wallpaper06_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_wood04_Diff" suffix="1" />
+        <Object id="Textures\TX_Casino_wood04_Norm" suffix="1" />
+        <Object id="Textures\TX_Casino_wood05_Norm" suffix="2" />
+        <Object id="Textures\TX_Casino_wood07_Diff" suffix="2" />
+        <Object id="Textures\TX_Craps_SignText_Lights03_Diff" suffix="1" />
+        <Object id="Textures\TX_Craps_SignText_Lights03_Mask" suffix="1" />
+        <Object id="Textures\TX_CrapsLights_Diff" suffix="1" />
+        <Object id="Textures\TX_CrapsLights_Mask" suffix="1" />
+        <Object id="Textures\TX_CrapsLights01_Emis" suffix="1" />
+        <Object id="Textures\TX_CrapsLights02_Emis" suffix="1" />
+        <Object id="Textures\TX_CrapsLights02_Norm" suffix="1" />
+        <Object id="Textures\TX_Silk_Curtain01_Diff" suffix="1" />
+        <Object id="Textures\TX_Silk_Curtain01_Norm" suffix="1" />
+        <Object id="Textures\TX_VegC_Crapsredtile_Diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_chopper01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_chopper02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_deliveryvan.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_furonhovership.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_generic.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_compact01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_compact04.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_pickuptruck02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_policecar02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_sport01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_swatvan02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_taxi02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_hk_wagon02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_jetpack.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_lp_060_limo.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_lp_110a_pickuptruck.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_nexotransport.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_compact02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_compact06.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_convertible02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_policecar03.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_sedan06.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_sport02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_suv01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_pa_swatvan03.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_transmogrify.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_ufofuron.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_JetEngineGlow_Emis" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_ufonexo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_JetEngineGlow_Emis" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_us_ambulance01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_bus01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_compact03.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_compact05.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_convertible01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_convertible04.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_pickuptruck01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_PickupTruck01_Diff02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_us_policecar01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_sedan01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_sedan03.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_swatvan.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_taxi.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_us_van01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_ussemi01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_SemiTruck01_Diff02" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_vehicles.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wagon01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_Wagon01_Diff02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_wld_deliverytruck02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_dumptruck01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_limo01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\baseBlack" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\vh_wld_luxury01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_tank01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_transport01.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_transport02.xxx" />
+    <Package path="kronosgame\cookedxenon\vh_wld_turrettruck.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_TurretTruck_Lights_brakes" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kronosgame\cookedxenon\wp_analprobe.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_blackholegun.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_bouncyball.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_deathray.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_disclocator.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_disintegratorray.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_flashbanggrenade.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_francodynerifle.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_generic_mt.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_iondetonator.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_kungfumaster_sword.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_m16.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_nexo_rocket.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_pistol.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_plasmacannons.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_rocketlauncher.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_rocketprojectile.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_seekers.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_shotgun.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_shuriken.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_swatshield.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_tornadotron.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_traidstaff.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_turret.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_vht.xxx" />
+    <Package path="kronosgame\cookedxenon\wp_zapomatic.xxx" />
+    <Package path="kronosgame\cookedxenon\x_english.xxx" />
+    <Package path="kronosgame\cookedxenon\x_french.xxx" />
+    <Package path="kronosgame\cookedxenon\x_german.xxx" />
+    <Package path="kronosgame\cookedxenon\x_italian.xxx" />
+    <Package path="kronosgame\cookedxenon\x_lang.xxx" />
+    <Package path="kronosgame\cookedxenon\x_spanish.xxx" />
+  </Packages>
+</IdRemapping>

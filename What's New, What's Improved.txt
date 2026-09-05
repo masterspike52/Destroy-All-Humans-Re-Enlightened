@@ -1,0 +1,31 @@
+DAH: Re-Enlightened Version 1.1
+
+Fixes, Improvements, and Tweaks
+
+- Improved weapon damage for the zap-o-matic, disintegrator ray, anal probe, and death ray
+- Tweaked health values for enemy vehicles like the attack helicopters, tanks, SAM trucks, and Nexo saucers
+- Rocket attacks from the helicopters are more easily dodgeable both in the saucer and on foot
+- Decreased how often helicopters launch their rockets at you so that it isn't a constant barrage
+- Lowered the DNA values for abducting humans from an exploitable 25 per human to a more reasonable 10 per human
+- Increased DNA payout from beating missions, side missions, and challenges
+- Soldiers no longer spawn in the deserts and hills during military alert, only on final alert
+- Decreased how often Crypto taunts, so he's less of a chatterbox while destroying humans
+- Improved Crypto's head turning so he isn't bobbing his head left and right at the sight of humans
+- Fixed a small issue where Crypto was visible during a conversation in Invasion of the Bodymorphers
+- Replaced the "star bomb" explosion used during Hex on the Beach with the proper Nexo arrival particle FX
+(It's used for the Nexo's that spawn when you're doing the lock puzzle on the human cage)
+- Increased the time between respawns for the humans used in Human Darts
+- Added explosion FX to the Space Dust signs
+
+How to Install
+
+- Uninstall your current mod by clicking the "Uninstall" button in TFC Installer. 
+- Install the new build
+- Play, have fun!
+
+DO NOT INSTALL THE NEW VERSION OF THE MOD OVER THE CURRENT VERSION. THIS CAUSES ERRORS.
+
+Bag of Goodies (Additional Stuff)
+
+- Properly looped music tracks courtesy of Captain-Eli (drag and drop these into POTF's audio folder)
+- More remastered cutscenes by Destroy All Humans Tribute, including a new end credits video!
